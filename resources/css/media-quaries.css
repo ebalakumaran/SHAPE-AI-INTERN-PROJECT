@@ -1,0 +1,130 @@
+@media only screen and (max-width: 1200px) {
+    html, body {
+    font-size: 16px;
+}
+.header-box {
+    margin-top: 20%;
+    margin-left: 20%;}
+.about-section {
+    padding: 10%;}
+.laptop-image {
+    margin-top: 20%;}
+.about-box {
+    margin-top: -4%;
+    margin-bottom: -5%;}
+}
+
+
+
+
+
+@media only screen and (max-width: 1024px) {
+    html, body {
+    font-size: 12px;
+}
+.header-box {
+    margin-top: 25%;
+    margin-left: 21%;}
+.package-price {
+    font-size: 280%;
+    font-weight: 500;
+}
+.package-price span {
+    font-size: 30%;
+    font-weight: 400;
+}
+footer {
+    background-color: #575757;
+    padding: 5%;
+    font-size: 85%;}
+.testimonial-section {
+    padding: 5px;
+}
+}
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+    html, body {
+    font-size: 10px;
+}
+.header-box {
+    margin-top: 30%;
+    margin-left: 20%;}
+.work-heading {
+    margin-top: 90px;
+}
+.service-heading {
+    margin-top: 90px;
+}
+footer {
+    font-size: 96%;}
+.testimonial-section {
+    padding: 8px;
+}
+}
+
+
+
+
+
+@media only screen and (max-width: 480px) {
+    html, body {
+    font-size: 10px;
+}
+.header-box {
+    margin-left: -2.5%;
+    margin-top: 57%}
+.laptop-image {
+    width: 80%;
+    padding: 0;
+    margin: 0;
+    margin-top: 55px;
+}
+.about-box:last-child {
+    text-align: center;
+}
+.about-box:first-child {
+    text-align: center;
+}
+.about-header {
+    font-size: 250%}
+.span_1_of_4 {
+    width: 45%;
+    margin-bottom: 20px;
+}
+.work-portfolio li {
+    width: 50%}
+.service-box {
+    margin: 0 2%}
+.service-box:first-child {
+    margin-left: 2%}
+.partners-section {
+    padding: 2%}
+.testimonial-section {
+    padding: 6%}
+.partners-logo {
+    width: 50%;
+    height: 100px;
+}
+.pack-button {
+    margin-left: 20%}
+.contact-form {
+    width: 80%}
+label {
+    font-size: 16px;
+    font-weight: 500;
+}
+.footer-nav {
+    text-align: center;
+    margin-bottom: 3.5%}
+.social-links {
+    text-align: center;
+}
+footer p {
+    margin-top: 30px;
+}
+}
